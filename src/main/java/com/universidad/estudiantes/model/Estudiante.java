@@ -4,10 +4,7 @@ import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
 
 /**
- * Entidad JPA que representa un Estudiante.
- * Mapeada a la tabla "estudiantes" en MySQL.
- *
- * @author Andres Felipe Jimenez Ramirez
+ * @author Camilo Andres Sanchez Martinez
  * Programación Web - Unidad 8 - Post-Contenido 1
  */
 @Entity

@@ -8,10 +8,8 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Repositorio de acceso a datos para la entidad Estudiante.
- * Hereda operaciones CRUD completas de JpaRepository.
  *
- * @author Andres Felipe Jimenez Ramirez
+ * @author Camilo Andres Sanchez Martinez
  */
 @Repository
 public interface EstudianteRepository extends JpaRepository<Estudiante, Long> {

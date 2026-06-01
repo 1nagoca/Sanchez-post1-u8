@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
- * Controlador MVC para las operaciones CRUD de Estudiante.
- * Maneja todas las rutas bajo /estudiantes.
- *
- * @author Andres Felipe Jimenez Ramirez
+ * @author Camilo Andres Sanchez Martinez
  */
 @Controller
 @RequestMapping("/estudiantes")
